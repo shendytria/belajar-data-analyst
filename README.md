@@ -11,6 +11,10 @@ Project ini dibuat untuk mempelajari langkah-langkah dasar menjadi seorang data 
 # Teknologi yang Digunakan
 - Python 3
 - Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 # Struktur File
 - `belajar_data_analyst.ipynb` → Notebook utama berisi kode dan penjelasan analisis.
